@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 
 
 <details><summary>Github Stats</summary>
-<div align="center">
+</br>
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=MuhammadMoiz2050&&style=flat-square" align="center" />
 </div>  
 
