@@ -17,15 +17,10 @@ Here are some ideas to get you started:
 -->
   
 <h1 align="center"><👋Hello, World!/></h1>
-### <div align="center">I'm Moiz, a computer science student with a passion to learn and explore new technologies.</div>  
+<h3 align="center">I'm Moiz, a computer science student with a passion to learn and explore new technologies.</h3>
   
-
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Kubernetes  
-  
-
+- 🌱 I’m currently learning Kubernetes    
 - 📫 Reach me at moiz2050@gmail.com  
   
 
