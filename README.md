@@ -67,11 +67,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
-<details>
+<details><summary>Github Stats</summary>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MuhammadMoiz2050&&style=flat-square" align="center" />
 </div>  
