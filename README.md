@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"><👋Hello, World!/></h1>
 <h3 align="center">I'm Moiz, a computer science student with a passion to learn and explore new technologies.</h3>
   
-- 🔭 I’m currently working on [Curricular](https://github.com/rishavanand/github-profilinator](https://github.com/MusaAnwaar/Curricular---Web)  
+- 🔭 I’m currently working on [Curricular](https://github.com/MusaAnwaar/Curricular---Web)  
 - 🌱 I’m currently learning Kubernetes    
 - 📫 Reach me at moiz2050@gmail.com  
   
